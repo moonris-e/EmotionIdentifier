@@ -1,0 +1,2 @@
+libopencv-dev
+libglu1
